@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAFFBEF-14F5-4431-9405-0AAD40BB8EDB}|problem3\\problem3.csproj|c:\\users\\mostafa mohamed\\source\\repos\\day1\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAFFBEF-14F5-4431-9405-0AAD40BB8EDB}|problem3\\problem3.csproj|solutionrelative:problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462AC775-8F59-418F-9988-C20023C6A7FF}|problem2\\problem2.csproj|c:\\users\\mostafa mohamed\\source\\repos\\day1\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462AC775-8F59-418F-9988-C20023C6A7FF}|problem2\\problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D3F4AF-2214-427E-BB6A-8B5BD3C8923E}|Day1\\Day1.csproj|c:\\users\\mostafa mohamed\\source\\repos\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D3F4AF-2214-427E-BB6A-8B5BD3C8923E}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590F8FA9-1CB5-4A03-B23B-B4C3500D8156}|problem4\\problem4.csproj|c:\\users\\mostafa mohamed\\source\\repos\\day1\\problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590F8FA9-1CB5-4A03-B23B-B4C3500D8156}|problem4\\problem4.csproj|solutionrelative:problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECED53F-6129-40D8-8180-01D8C1D89A07}|Magic Box\\Magic Box.csproj|c:\\users\\mostafa mohamed\\source\\repos\\day1\\magic box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECED53F-6129-40D8-8180-01D8C1D89A07}|Magic Box\\Magic Box.csproj|solutionrelative:magic box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:52:22.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem2\\Program.cs",
+              "RelativeDocumentMoniker": "problem2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem2\\Program.cs",
+              "RelativeToolTip": "problem2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:56:41.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem3\\Program.cs",
+              "RelativeDocumentMoniker": "problem3\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem3\\Program.cs",
+              "RelativeToolTip": "problem3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:56:57.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem4\\Program.cs",
+              "RelativeDocumentMoniker": "problem4\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\problem4\\Program.cs",
+              "RelativeToolTip": "problem4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:57:13.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\Magic Box\\Program.cs",
+              "RelativeDocumentMoniker": "Magic Box\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa Mohamed\\source\\repos\\Day1\\Magic Box\\Program.cs",
+              "RelativeToolTip": "Magic Box\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:35:58.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
